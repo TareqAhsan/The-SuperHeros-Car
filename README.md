@@ -1,10 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Tailwind with [super-car-react](https://elated-brown-e69d79.netlify.app/).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+* using tailwind css
+* using  react js
+* vanilla css
+* font-awesome
+* google fonts
 
 ### `npm start`
 

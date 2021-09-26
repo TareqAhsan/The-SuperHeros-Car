@@ -1,0 +1,142 @@
+[
+  {
+    "name": "audi",
+    "id": 1,
+    "price": 10000,
+    "manufacturer": "Germany",
+    "model": "R8",
+    "img": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "black",
+    "cc": "6000"
+  },
+  {
+    "name": "toyota",
+    "id": 2,
+    "price": 4000,
+    "manufacturer": "Japan",
+    "model": "gt-86",
+    "img": "https://images.pexels.com/photos/9272418/pexels-photo-9272418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "white",
+    "cc": "4000"
+  },
+  {
+    "name": "Ferari",
+    "id": 3,
+    "price": 35000,
+    "manufacturer": "Itali",
+    "model": "365 GTB/4 Daytona",
+    "img": "https://images.pexels.com/photos/5126057/pexels-photo-5126057.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "color": "red",
+    "cc": "7000"
+  },
+  {
+    "name": "Lamborgini",
+    "price": 150000,
+    "id": 4,
+    "manufacturer": "Itali",
+    "model": "Lamborgini Aventador",
+    "img": "https://images.pexels.com/photos/5288699/pexels-photo-5288699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "yellow",
+    "cc": "10000"
+  },
+  {
+    "name": "porche",
+    "price": 25000,
+    "id": 5,
+    "manufacturer": "German",
+    "model": "911 GT3",
+    "img": "https://c4ddownload.com/wp-content/uploads/Porsche-911-Carrera-3D-Model.jpg",
+    "color": "red wine",
+    "cc": "5000"
+  },
+  {
+    "name": "Hummer",
+    "price": 5000,
+    "id": 6,
+    "manufacturer": "America",
+    "model": "Hummer",
+    "img": "https://images.pexels.com/photos/773057/pexels-photo-773057.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "yellow",
+    "cc": "2000"
+  },
+  {
+    "name": "Aston Martin",
+    "price": 3000,
+    "id": 7,
+    "manufacturer": "Germany",
+    "model": "DB11.",
+    "img": "https://images.pexels.com/photos/6476897/pexels-photo-6476897.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "color": "Orange matalic",
+    "cc": "1500"
+  },
+  {
+    "name": "Tesla",
+    "price": 1000,
+    "id": 8,
+    "manufacturer": "USA",
+    "model": "Tesla x",
+    "img": "https://images.pexels.com/photos/9300916/pexels-photo-9300916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "white",
+    "cc": "2500"
+  },
+  {
+    "name": "Supra",
+    "price": 10000,
+    "id": 9,
+    "manufacturer": "Japan",
+    "model": "MK4",
+    "img": "https://images.pexels.com/photos/7618612/pexels-photo-7618612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "white",
+    "cc": "6000"
+  },
+  {
+    "name": "Ford",
+    "price": 2000,
+    "id": 10,
+    "manufacturer": "America",
+    "model": "sedan",
+    "img": "https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "red",
+    "cc": "5500"
+  },
+  {
+    "name": "Dodge Demon",
+    "price": 10000,
+    "id": 11,
+    "manufacturer": "America",
+    "model": "sports",
+    "img": "https://images.pexels.com/photos/3608542/pexels-photo-3608542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "red",
+    "cc": "6500"
+  },
+  {
+    "name": "Nissan GTR",
+    "price": 10000,
+    "id": 12,
+    "manufacturer": "Japan",
+    "model": "sports",
+    "img": "https://images.pexels.com/photos/8060364/pexels-photo-8060364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "Glossy gray",
+    "cc": "3500"
+  },
+  {
+    "name": "Rolls royce",
+    "price": 10000,
+    "id": 13,
+    "manufacturer": "Japan",
+    "model": "sedan",
+    "img": "https://images.pexels.com/photos/3764986/pexels-photo-3764986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "color": "perl white",
+    "cc": "3500"
+  },
+  {
+    "name": "Mercedes benz",
+    "price": 100500,
+    "id": 14,
+    "manufacturer": "Germany",
+    "model": "sedan",
+    "img": "https://images.pexels.com/photos/112452/pexels-photo-112452.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "color": "Glossy gray",
+    "cc": "3500"
+  }
+]

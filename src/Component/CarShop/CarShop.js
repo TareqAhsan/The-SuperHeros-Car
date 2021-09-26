@@ -19,7 +19,7 @@ const CarShop = () => {
   return (
     <div className="container mx-auto">
       <div className="flex">
-        <div className="grid gap-x-2 gap-y-2 grid-cols-1 lg:grid-cols-3 p-3 flex-1">
+        <div className="grid gap-x-4 gap-y-2 grid-cols-1 lg:grid-cols-3 p-3 flex-1">
           {cars.map((car) => (
             <Car car={car} key={car.id} handleClick={handleClick}></Car>
           ))}

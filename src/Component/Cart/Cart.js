@@ -5,8 +5,8 @@ const Cart = (props) => {
   const total = cart.reduce((prev, car) => prev + car.price, 0);
 
   return (
-    <div className="cart">
-      <div className="text-center shadow-lg rounded-lg w-full p-1 m-7  cart-custom bg-indigo-400">
+    <div className="cart w-5/6">
+      <div className="text-center shadow-lg rounded-lg  p-1 m-7  cart-custom bg-indigo-400">
         <div className="text-base">
           <p className="font-medium text-3xl text-dark-600">
             Cars Added:<i className="fas fa-cart-plus"></i>

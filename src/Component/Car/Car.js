@@ -6,10 +6,10 @@ const Car = (props) => {
   const  {car,handleClick} = props;
 
   return (
-    <div className="text-center shadow-lg rounded-lg w-5/6 h-auto
-     p-3 m-7 bg-indigo-400 hover:bg-indigo-300">
+    <div className="text-center shadow-lg rounded-lg w-full h-auto
+     p-1 m-7 bg-indigo-400 hover:bg-indigo-300">
       <div>
-        <img src={img} className="w-72 h-64 mx-auto rounded-xl" alt="" />
+        <img src={img} className="w-full h-64 mx-auto rounded-lg" alt="" />
       </div>
       <div className="text-base">
         <h1 className="font-bold mt-4 text-2xl">Name: {name}</h1>
